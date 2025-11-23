@@ -4,9 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0e75b6&width=650&lines=Machine+Learning+Engineer+%7C+Full-Stack+Developer;Python+%26+Data+Analysis+Expert;SQL+%26+MongoDB+Practitioner;Always+Learning+%7C+Always+Building" alt="Typing Animation" />
 </h3>
 
-<!-- Profile GIF related to Machine Learning -->
+<!-- Profile GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/f9kU4gMxyuUgM/giphy.gif" width="400px" alt="Machine Learning Coding GIF"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" alt="Coding GIF"/>
 </p>
 
 <!-- Profile Views -->
@@ -36,20 +36,27 @@
 ---
 
 ### 🛠️ Skills & Tools
+
+**Frontend & Backend**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mysql,postgres,mongodb,python,pandas,numpy,matplotlib,seaborn,sklearn,scipy,git,figma,heroku&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express&perline=7" />
 </p>
 
-**Python Libraries & Technologies**  
+**Databases**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=7" />
+</p>
+
+**Python Libraries & Technologies**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib,seaborn,sklearn,scipy,git,figma,heroku&perline=7" />
+</p>
+
 - **NumPy** — Numerical computing  
 - **Pandas** — Data manipulation & analysis  
 - **Matplotlib / Seaborn** — Data visualization  
 - **Scikit-learn** — Machine learning  
 - **SciPy** — Scientific computing  
-
-**Databases**  
-- **SQL** (MySQL / PostgreSQL)  
-- **MongoDB**
 
 ---
 
@@ -62,21 +69,21 @@
 ---
 
 ### 📂 Projects
-- [**Student Portal / LMS Portal**](#) – Complete portal for students with **hostel allowance, library system, appointments, admin system**, and full student management modules.  
-- [**E-Learning Platform**](https://deh-frontend-dckr.vercel.app/) – Full-stack application with user authentication, course management, and responsive design.  
-- [**Admin Dashboard**](https://deh-admin-dashboard-mawlid1431s-projects.vercel.app/) – Dashboard for managing users, courses, analytics, and reporting.  
-- [**AI Student Performance Predictor**](#) – Machine Learning project predicting student performance based on historical data.  
-- [**Data Analysis Projects**](#) – Various Python and SQL projects analyzing datasets for insights and visualization.
+- **Student Portal / LMS Portal** – Complete portal for students with hostel allowance, library system, appointments, admin system, and full student management modules.  
+- **E-Learning Platform** – Full-stack application with user authentication, course management, and responsive design.  
+- **Admin Dashboard** – Dashboard for managing users, courses, analytics, and reporting.  
+- **AI Student Performance Predictor** – Machine Learning project predicting student performance based on historical data.  
+- **Data Analysis Projects** – Various Python and SQL projects analyzing datasets for insights and visualization.
 
 ---
 
 ### 📊 GitHub Stats & Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasnainhaider&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasnainhaider&theme=tokyonight" alt="GitHub Streak" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hasnainhaider&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasnainhaider&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hasnainhaider&show_icons=true&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hasnainhaider&show_icons=true&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
 ---
