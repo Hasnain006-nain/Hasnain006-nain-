@@ -1,5 +1,5 @@
 <!-- Intro with Typing Animation -->
-<h1 align="center">Hi 👋, I'm Hasnain "Nain" Haider</h1>
+<h1 align="center">Hi 👋, I'm Hasnain Haider ( Nain ) </h1>
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0e75b6&width=650&lines=Machine+Learning+Engineer+%7C+Full-Stack+Developer;Python+%26+Data+Analysis+Expert;SQL+%26+MongoDB+Practitioner;Always+Learning+%7C+Always+Building" alt="Typing Animation" />
 </h3>
