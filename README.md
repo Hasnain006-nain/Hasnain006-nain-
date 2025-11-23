@@ -35,9 +35,9 @@
 <p align="center">
   <a href="https://twitter.com/hasnainhaider"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
   <a href="https://linkedin.com/in/hasnainhaider"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="https://facebook.com/hasnainhaider"><img src="https://skillicons.dev/icons?i=facebook" height="40"/></a>
+ 
   <a href="https://instagram.com/hasnainhaider"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
-  <a href="https://www.youtube.com/@hasnainhaider"><img src="https://skillicons.dev/icons?i=youtube" height="40"/></a>
+ 
 </p>
 
 ---
