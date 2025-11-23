@@ -4,9 +4,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0e75b6&width=650&lines=Machine+Learning+Engineer+%7C+Full-Stack+Developer;Python+%26+Data+Analysis+Expert;SQL+%26+MongoDB+Practitioner;Always+Learning+%7C+Always+Building" alt="Typing Animation" />
 </h3>
 
+<!-- Profile GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" alt="Coding GIF"/>
+</p>
+
 <!-- Real-time Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hasnain006-nain&label=Real-Time%20Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Hasnain006-nain&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
