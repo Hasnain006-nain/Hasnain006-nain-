@@ -119,9 +119,5 @@ HTML/CSS      ████████                   40%
 TypeScript    ██████                     30%
 
 
-<div align="center">
-# ✨ Favorite Quotes
-
-**"We make our own fortune, and we call it fate."** - Benjamin Disraeli
-
+<p align="center"> <b>"We make our own fortune, and we call it fate."</b> - Benjamin Disraeli </p><!-- END OF README -->
 </div>
