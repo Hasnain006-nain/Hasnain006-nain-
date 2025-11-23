@@ -110,9 +110,18 @@
 ---
 
 ### 📈 Weekly Development Breakdown
+
 ```text
 Python        ████████████████████████   85%
 JavaScript    ██████████████             60%
 SQL           ██████████                 45%
 HTML/CSS      ████████                   40%
 TypeScript    ██████                     30%
+
+
+<div align="center">
+# ✨ Favorite Quotes
+
+**"We make our own fortune, and we call it fate."** - Benjamin Disraeli
+
+</div>
