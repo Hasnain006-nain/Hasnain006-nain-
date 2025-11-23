@@ -120,10 +120,10 @@ TypeScript    ██████                     30%
 <div align="center">
 <div align="center">
 
-💝 Support My Work
+# 💝 Support My Work
 If you find my projects helpful, consider giving them a ⭐️
 
-✨ Favorite Quotes
+# ✨ Favorite Quotes
 
 </div>
 <p align="center"> <b>"We make our own fortune, and we call it fate." - Benjamin Disraeli</b> </p><!-- END OF README -->
