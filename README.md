@@ -4,14 +4,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0e75b6&width=650&lines=Machine+Learning+Engineer+%7C+Full-Stack+Developer;Python+%26+Data+Analysis+Expert;SQL+%26+MongoDB+Practitioner;Always+Learning+%7C+Always+Building" alt="Typing Animation" />
 </h3>
 
-<!-- Profile GIF -->
+<!-- Real-time Profile Views -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" alt="Coding GIF"/>
+  <img src="https://komarev.com/ghpvc/?username=Hasnain006-nain&label=Real-Time%20Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
-<!-- Profile Views -->
+<!-- Live Coding Activity -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hasnain006-nain&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hasnain006-nain&theme=react-dark&hide_border=true&area=true&custom_title=Live%20Coding%20Activity" alt="Live Activity Graph" width="90%"/>
 </p>
 
 ---
@@ -31,32 +31,57 @@
   <a href="https://linkedin.com/in/hasnain-machinelearning-engineer/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
   <a href="https://www.instagram.com/n_a__i_n/"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
   <a href="mailto:hhnain1006@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+  <a href="https://github.com/Hasnain006-nain"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
 </p>
 
 ---
 
 ### 🛠️ Skills & Tools
 
-**Frontend & Backend**
+#### Frontend & Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express" height="40"/>
 </p>
 
-**Databases**
+#### Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=7" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" height="40"/>
 </p>
 
-**Python Libraries & Technologies**
+#### Python Libraries & Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib,seaborn,sklearn,scipy,git,figma,heroku&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib,seaborn,sklearn,scipy" height="40"/>
 </p>
 
-- **NumPy** — Numerical computing  
-- **Pandas** — Data manipulation & analysis  
-- **Matplotlib / Seaborn** — Data visualization  
-- **Scikit-learn** — Machine learning  
-- **SciPy** — Scientific computing  
+#### DevOps & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,bash,vscode,figma,heroku" height="40"/>
+</p>
+
+---
+
+### 📊 Real-Time GitHub Analytics
+
+#### Live Stats Dashboard
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hasnain006-nain&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&custom_title=Live%20GitHub%20Stats" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hasnain006-nain&theme=radical&hide_border=true&currStreakLabel=Current%20Streak" alt="GitHub Streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasnain006-nain&theme=radical&hide_border=true&layout=compact&langs_count=8&custom_title=Live%20Language%20Usage" alt="Top Languages" height="165"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Hasnain006-nain&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophy" height="165"/>
+</p>
+
+#### Contribution Metrics
+<p align="center">
+  <img src="https://github-contribution-stats.vercel.app/api/?username=Hasnain006-nain&theme=radical&show_icons=true" alt="Contribution Stats" width="90%"/>
+</p>
+
+#### Live Coding Time
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Hasnain006-nain&theme=radical&hide_border=true&layout=compact&custom_title=Weekly%20Coding%20Time" alt="WakaTime" height="150"/>
+</p>
 
 ---
 
@@ -68,27 +93,17 @@
 
 ---
 
-### 📂 Projects
-- **Student Portal / LMS Portal** – Complete portal for students with hostel allowance, library system, appointments, admin system, and full student management modules.  
-- **E-Learning Platform** – Full-stack application with user authentication, course management, and responsive design.  
-- **Admin Dashboard** – Dashboard for managing users, courses, analytics, and reporting.  
-- **AI Student Performance Predictor** – Machine Learning project predicting student performance based on historical data.  
-- **Data Analysis Projects** – Various Python and SQL projects analyzing datasets for insights and visualization.
+### 📂 Live Projects Status
 
----
+#### 🔄 Active Development
+- **Student Portal / LMS Portal** – Complete portal for students with hostel allowance, library system, appointments, admin system
+- **E-Learning Platform** – Full-stack application with user authentication, course management
+- **Admin Dashboard** – Dashboard for managing users, courses, analytics
+- **AI Student Performance Predictor** – Machine Learning project predicting student performance
 
-### 📊 GitHub Stats & Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hasnain006-nain&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hasnain006-nain&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hasnain006-nain&show_icons=true&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
----
-
-### ✨ Fun Animated Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Inspiring quote"/>
-</p>
+#### 📊 Recent Updates
+```bash
+Last Updated: {{ CURRENT_TIMESTAMP }}
+Active Branches: main, development, feature-ml-models
+Latest Commit: {{ LATEST_COMMIT_HASH }}
+Deployment Status: 🟢 Live
