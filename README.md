@@ -9,11 +9,6 @@
   <img src="https://komarev.com/ghpvc/?username=Hasnain006-nain&label=Real-Time%20Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
-<!-- Live Coding Activity -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hasnain006-nain&theme=react-dark&hide_border=true&area=true&custom_title=Live%20Coding%20Activity" alt="Live Activity Graph" width="90%"/>
-</p>
-
 ---
 
 ### 🚀 About Me
@@ -36,51 +31,50 @@
 
 ---
 
-### 🛠️ Skills & Tools
+### 🛠️ Technical Skills & Tools
 
-#### Frontend & Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express" height="40"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mysql,postgres,mongodb,python,pandas,numpy,matplotlib,seaborn,sklearn,scipy,git,github,docker,aws,linux,bash,vscode,figma,heroku&perline=8" />
 </p>
 
-#### Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" height="40"/>
-</p>
+**Programming & Development:**
+- **Frontend:** HTML, CSS, JavaScript, React, Next.js
+- **Backend:** Node.js, Express, Python
+- **Databases:** MySQL, PostgreSQL, MongoDB
 
-#### Python Libraries & Technologies
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib,seaborn,sklearn,scipy" height="40"/>
-</p>
+**Data Science & Machine Learning:**
+- **Python Libraries:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, SciPy
+- **Data Analysis & Visualization**
+- **Machine Learning Models**
 
-#### DevOps & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,bash,vscode,figma,heroku" height="40"/>
-</p>
+**DevOps & Tools:**
+- **Version Control:** Git, GitHub
+- **Cloud & Deployment:** AWS, Docker, Heroku
+- **Development:** VS Code, Linux, Bash, Figma
 
 ---
 
-### 📊 Real-Time GitHub Analytics
+### 📊 GitHub Analytics
 
-#### Live Stats Dashboard
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hasnain006-nain&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&custom_title=Live%20GitHub%20Stats" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hasnain006-nain&theme=radical&hide_border=true&currStreakLabel=Current%20Streak" alt="GitHub Streak" height="165"/>
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Hasnain006-nain&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165"/>
+  
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hasnain006-nain&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasnain006-nain&theme=radical&hide_border=true&layout=compact&langs_count=8&custom_title=Live%20Language%20Usage" alt="Top Languages" height="165"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Hasnain006-nain&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophy" height="165"/>
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasnain006-nain&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" height="165"/>
+  
+  <!-- GitHub Trophy -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Hasnain006-nain&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophy" height="165"/>
 </p>
 
-#### Contribution Metrics
+<!-- Live Coding Activity -->
 <p align="center">
-  <img src="https://github-contribution-stats.vercel.app/api/?username=Hasnain006-nain&theme=radical&show_icons=true" alt="Contribution Stats" width="90%"/>
-</p>
-
-#### Live Coding Time
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Hasnain006-nain&theme=radical&hide_border=true&layout=compact&custom_title=Weekly%20Coding%20Time" alt="WakaTime" height="150"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hasnain006-nain&theme=react-dark&hide_border=true&area=true" alt="Live Activity Graph" width="90%"/>
 </p>
 
 ---
@@ -93,17 +87,27 @@
 
 ---
 
-### 📂 Live Projects Status
+### 📂 Projects
+- **Student Portal / LMS Portal** – Complete portal for students with hostel allowance, library system, appointments, admin system, and full student management modules.  
+- **E-Learning Platform** – Full-stack application with user authentication, course management, and responsive design.  
+- **Admin Dashboard** – Dashboard for managing users, courses, analytics, and reporting.  
+- **AI Student Performance Predictor** – Machine Learning project predicting student performance based on historical data.  
+- **Data Analysis Projects** – Various Python and SQL projects analyzing datasets for insights and visualization.
 
-#### 🔄 Active Development
-- **Student Portal / LMS Portal** – Complete portal for students with hostel allowance, library system, appointments, admin system
-- **E-Learning Platform** – Full-stack application with user authentication, course management
-- **Admin Dashboard** – Dashboard for managing users, courses, analytics
-- **AI Student Performance Predictor** – Machine Learning project predicting student performance
+---
 
-#### 📊 Recent Updates
-```bash
-Last Updated: {{ CURRENT_TIMESTAMP }}
-Active Branches: main, development, feature-ml-models
-Latest Commit: {{ LATEST_COMMIT_HASH }}
-Deployment Status: 🟢 Live
+### 🎯 Current Focus
+- 🔬 **Machine Learning Models** for predictive analytics
+- 🌐 **Full-Stack Applications** with React & Node.js
+- 📊 **Data Analysis Projects** with Python & SQL
+- 💼 **ALX Software Engineering Program** projects
+
+---
+
+### 📈 Weekly Development Breakdown
+```text
+Python        ████████████████████████   85%
+JavaScript    ██████████████             60%
+SQL           ██████████                 45%
+HTML/CSS      ████████                   40%
+TypeScript    ██████                     30%
