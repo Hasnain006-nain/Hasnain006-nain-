@@ -15,14 +15,19 @@
 </p>
 
 ---
+
 <div align="center">
- <h1> 🚀 About Me  </h1>    </div>
-- 💻 Full-Stack Developer & Machine Learning Engineer from **Pakistan**, passionate about AI, data, and full-stack solutions.  
-- 🌱 Currently upskilling in **Python, Next.js**, and actively contributing in the **ALX Software Engineering Program**.  
-- 📊 Proficient in *Data Analysis, SQL, Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, SciPy), Machine Learning*, and working with **MongoDB**.  
-- 💬 Feel free to ask me about *Machine Learning models, backend/frontend development, database design, and data analytics*.  
-- 📫 Reach me at: **hhnain1006@gmail.com**  
-- ⚡ Fun fact: I enjoy turning raw data into actionable insights and building scalable applications.
+  <h1>🚀 About Me</h1>
+</div>
+
+- 💻 **Full-Stack Developer & Machine Learning Engineer** from Pakistan, passionate about AI, data, and scalable full-stack solutions.  
+- 🌱 Currently upskilling in **Python**, **Next.js**, and actively contributing to the **ALX Software Engineering Program**.  
+- 📊 Skilled in **Data Analysis, SQL, Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, SciPy), Machine Learning**, and working with **MongoDB**.  
+- 💬 Ask me anything related to **Machine Learning models, backend/frontend development, database design, or data analytics**.  
+- 📫 Contact me at **hhnain1006@gmail.com**  
+- ⚡ **Fun Fact:** I enjoy transforming raw data into meaningful insights and building apps that solve real-world problems.
+
+
 
 ---
 <div align="center">
