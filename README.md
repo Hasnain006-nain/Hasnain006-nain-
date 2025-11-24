@@ -95,20 +95,26 @@
 
 ---
 <div align="center">
- <h1> 📂 Projects  </h1>     </div>
-- **Student Portal / LMS Portal** – Complete portal for students with hostel allowance, library system, appointments, admin system, and full student management modules.  
-- **E-Learning Platform** – Full-stack application with user authentication, course management, and responsive design.  
-- **Admin Dashboard** – Dashboard for managing users, courses, analytics, and reporting.  
-- **AI Student Performance Predictor** – Machine Learning project predicting student performance based on historical data.  
-- **Data Analysis Projects** – Various Python and SQL projects analyzing datasets for insights and visualization.
+  <h1>📂 Projects</h1>
+</div>
+
+- **Student Portal / LMS Portal** – A complete portal for students with hostel allowance management, library system, appointment booking, admin panel, and full student management features.  
+- **E-Learning Platform** – Full-stack web application with user authentication, course management, and modern responsive UI.  
+- **Admin Dashboard** – Advanced dashboard for managing users, courses, analytics, and reporting.  
+- **AI Student Performance Predictor** – Machine Learning model that predicts academic performance using historical student data.  
+- **Data Analysis Projects** – Multiple Python and SQL-based analytical projects providing insights and visualizations across different datasets.
 
 ---
+
 <div align="center">
- <h1> 🎯 Current Focus  </h1>      </div>
-- 🔬 **Machine Learning Models** for predictive analytics
-- 🌐 **Full-Stack Applications** with React & Node.js
-- 📊 **Data Analysis Projects** with Python & SQL
-- 💼 **ALX Software Engineering Program** projects
+  <h1>🎯 Current Focus</h1>
+</div>
+
+- 🔬 **Machine Learning Models** for predictive analytics  
+- 🌐 **Full-Stack Applications** using React & Node.js  
+- 📊 **Data Analysis Projects** with Python & SQL  
+- 💼 **ALX Software Engineering Program** deliverables  
+
 
 ---
 
