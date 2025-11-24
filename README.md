@@ -84,11 +84,14 @@
 
 ---
 <div align="center">
- <h1> 🏆 Achievements & Highlights </h1>       </div>
-- 🔗 **LinkedIn Presence** — built a professional network with **10k+ followers**, sharing ML, data analysis, and full-stack development insights.  
-- 🤖 **AI-Powered Student Performance Predictor** — created ML model to forecast student performance using academic data.  
-- 📊 **Data Analysis & Visualization for University Research** — delivered actionable insights using Python and SQL.  
-- ⚡ Active **open-source contributor** and continuously learning in **Machine Learning, Full-Stack Development, and Data Analytics**.
+  <h1>🏆 Achievements & Highlights</h1>
+</div>
+
+- 🔗 **LinkedIn Presence** — Built a strong professional network with **10k+ followers**, consistently sharing insights on Machine Learning, Data Analysis, and Full-Stack Development.  
+- 🤖 **AI-Powered Student Performance Predictor** — Developed an ML model to accurately forecast student performance using historical academic data.  
+- 📊 **Data Analysis & Visualization for University Research** — Conducted in-depth analysis and delivered actionable insights using Python and SQL.  
+- ⚡ **Active Open-Source Contributor** — Regularly contributing to projects while continuously learning in **Machine Learning, Full-Stack Development, and Data Analytics**.
+
 
 ---
 <div align="center">
