@@ -15,8 +15,8 @@
 </p>
 
 ---
-
-### 🚀 About Me
+<div align="center">
+### 🚀 About Me   </div>
 - 💻 Full-Stack Developer & Machine Learning Engineer from **Pakistan**, passionate about AI, data, and full-stack solutions.  
 - 🌱 Currently upskilling in **Python, Next.js**, and actively contributing in the **ALX Software Engineering Program**.  
 - 📊 Proficient in *Data Analysis, SQL, Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, SciPy), Machine Learning*, and working with **MongoDB**.  
@@ -25,8 +25,8 @@
 - ⚡ Fun fact: I enjoy turning raw data into actionable insights and building scalable applications.
 
 ---
-
-### 🌐 Connect with Me
+<div align="center">
+### 🌐 Connect with Me  </div>
 <p align="center">
   <a href="https://linkedin.com/in/hasnain-machinelearning-engineer/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
   <a href="https://www.instagram.com/n_a__i_n/"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
@@ -35,8 +35,8 @@
 </p>
 
 ---
-
-### 🛠️ Technical Skills & Tools
+<div align="center">
+### 🛠️ Technical Skills & Tools    </div>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mysql,postgres,mongodb,python,pandas,numpy,matplotlib,seaborn,sklearn,scipy,git,github,docker,aws,linux,bash,vscode,figma,heroku&perline=8" />
@@ -58,8 +58,8 @@
 - **Development:** VS Code, Linux, Bash, Figma
 
 ---
-
-### 📊 GitHub Analytics
+<div align="center">
+### 📊 GitHub Analytics  </div>
 
 <p align="center">
   <!-- GitHub Stats Card -->
@@ -83,16 +83,16 @@
 </p>
 
 ---
-
-### 🏆 Achievements & Highlights
+<div align="center">
+### 🏆 Achievements & Highlights   </div>
 - 🔗 **LinkedIn Presence** — built a professional network with **10k+ followers**, sharing ML, data analysis, and full-stack development insights.  
 - 🤖 **AI-Powered Student Performance Predictor** — created ML model to forecast student performance using academic data.  
 - 📊 **Data Analysis & Visualization for University Research** — delivered actionable insights using Python and SQL.  
 - ⚡ Active **open-source contributor** and continuously learning in **Machine Learning, Full-Stack Development, and Data Analytics**.
 
 ---
-
-### 📂 Projects
+<div align="center">
+### 📂 Projects   </div>
 - **Student Portal / LMS Portal** – Complete portal for students with hostel allowance, library system, appointments, admin system, and full student management modules.  
 - **E-Learning Platform** – Full-stack application with user authentication, course management, and responsive design.  
 - **Admin Dashboard** – Dashboard for managing users, courses, analytics, and reporting.  
@@ -100,8 +100,8 @@
 - **Data Analysis Projects** – Various Python and SQL projects analyzing datasets for insights and visualization.
 
 ---
-
-### 🎯 Current Focus
+<div align="center">
+### 🎯 Current Focus    </div>
 - 🔬 **Machine Learning Models** for predictive analytics
 - 🌐 **Full-Stack Applications** with React & Node.js
 - 📊 **Data Analysis Projects** with Python & SQL
