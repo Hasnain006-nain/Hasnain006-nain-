@@ -16,7 +16,7 @@
 
 ---
 <div align="center">
- <h3> 🚀 About Me  </h3>    </div>
+ <h1> 🚀 About Me  </h1>    </div>
 - 💻 Full-Stack Developer & Machine Learning Engineer from **Pakistan**, passionate about AI, data, and full-stack solutions.  
 - 🌱 Currently upskilling in **Python, Next.js**, and actively contributing in the **ALX Software Engineering Program**.  
 - 📊 Proficient in *Data Analysis, SQL, Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, SciPy), Machine Learning*, and working with **MongoDB**.  
