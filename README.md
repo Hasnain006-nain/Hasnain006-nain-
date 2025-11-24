@@ -16,7 +16,7 @@
 
 ---
 <div align="center">
-### 🚀 About Me   </div>
+ <b> 🚀 About Me  </b>    </div>
 - 💻 Full-Stack Developer & Machine Learning Engineer from **Pakistan**, passionate about AI, data, and full-stack solutions.  
 - 🌱 Currently upskilling in **Python, Next.js**, and actively contributing in the **ALX Software Engineering Program**.  
 - 📊 Proficient in *Data Analysis, SQL, Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, SciPy), Machine Learning*, and working with **MongoDB**.  
@@ -26,7 +26,7 @@
 
 ---
 <div align="center">
-### 🌐 Connect with Me  </div>
+ <b> 🌐 Connect with Me </b>     </div>
 <p align="center">
   <a href="https://linkedin.com/in/hasnain-machinelearning-engineer/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
   <a href="https://www.instagram.com/n_a__i_n/"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
@@ -36,7 +36,7 @@
 
 ---
 <div align="center">
-### 🛠️ Technical Skills & Tools    </div>
+ <b> 🛠️ Technical Skills & Tools</b>        </div>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mysql,postgres,mongodb,python,pandas,numpy,matplotlib,seaborn,sklearn,scipy,git,github,docker,aws,linux,bash,vscode,figma,heroku&perline=8" />
@@ -59,7 +59,7 @@
 
 ---
 <div align="center">
-### 📊 GitHub Analytics  </div>
+ <b> 📊 GitHub Analytics</b>      </div>
 
 <p align="center">
   <!-- GitHub Stats Card -->
@@ -84,7 +84,7 @@
 
 ---
 <div align="center">
-### 🏆 Achievements & Highlights   </div>
+ <b> 🏆 Achievements & Highlights </b>       </div>
 - 🔗 **LinkedIn Presence** — built a professional network with **10k+ followers**, sharing ML, data analysis, and full-stack development insights.  
 - 🤖 **AI-Powered Student Performance Predictor** — created ML model to forecast student performance using academic data.  
 - 📊 **Data Analysis & Visualization for University Research** — delivered actionable insights using Python and SQL.  
@@ -92,7 +92,7 @@
 
 ---
 <div align="center">
-### 📂 Projects   </div>
+ <b> 📂 Projects  </b>     </div>
 - **Student Portal / LMS Portal** – Complete portal for students with hostel allowance, library system, appointments, admin system, and full student management modules.  
 - **E-Learning Platform** – Full-stack application with user authentication, course management, and responsive design.  
 - **Admin Dashboard** – Dashboard for managing users, courses, analytics, and reporting.  
@@ -101,7 +101,7 @@
 
 ---
 <div align="center">
-### 🎯 Current Focus    </div>
+ <b> 🎯 Current Focus  </b>      </div>
 - 🔬 **Machine Learning Models** for predictive analytics
 - 🌐 **Full-Stack Applications** with React & Node.js
 - 📊 **Data Analysis Projects** with Python & SQL
@@ -111,11 +111,11 @@
 
 <div align="center">
 
-# 💝 Support My Work
+ <b> 💝 Support My Work</b>    
 
 If you find my projects helpful, consider giving them a ⭐️
 
-# ✨ Favorite Quotes
+ <b> ✨ Favorite Quotes</b>    
 
 </div>
 <p align="center"> <b>"We make our own fortune, and we call it fate." - Benjamin Disraeli</b> </p><!-- END OF README -->
