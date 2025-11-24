@@ -26,7 +26,7 @@
 
 ---
 <div align="center">
- <b> 🌐 Connect with Me </b>     </div>
+ <h1> 🌐 Connect with Me </h1>     </div>
 <p align="center">
   <a href="https://linkedin.com/in/hasnain-machinelearning-engineer/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
   <a href="https://www.instagram.com/n_a__i_n/"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
@@ -36,7 +36,7 @@
 
 ---
 <div align="center">
- <b> 🛠️ Technical Skills & Tools</b>        </div>
+ <h1> 🛠️ Technical Skills & Tools</h1>        </div>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mysql,postgres,mongodb,python,pandas,numpy,matplotlib,seaborn,sklearn,scipy,git,github,docker,aws,linux,bash,vscode,figma,heroku&perline=8" />
@@ -59,7 +59,7 @@
 
 ---
 <div align="center">
- <b> 📊 GitHub Analytics</b>      </div>
+ <h1> 📊 GitHub Analytics</h1>      </div>
 
 <p align="center">
   <!-- GitHub Stats Card -->
@@ -84,7 +84,7 @@
 
 ---
 <div align="center">
- <b> 🏆 Achievements & Highlights </b>       </div>
+ <h1> 🏆 Achievements & Highlights </h1>       </div>
 - 🔗 **LinkedIn Presence** — built a professional network with **10k+ followers**, sharing ML, data analysis, and full-stack development insights.  
 - 🤖 **AI-Powered Student Performance Predictor** — created ML model to forecast student performance using academic data.  
 - 📊 **Data Analysis & Visualization for University Research** — delivered actionable insights using Python and SQL.  
@@ -92,7 +92,7 @@
 
 ---
 <div align="center">
- <b> 📂 Projects  </b>     </div>
+ <h1> 📂 Projects  </h1>     </div>
 - **Student Portal / LMS Portal** – Complete portal for students with hostel allowance, library system, appointments, admin system, and full student management modules.  
 - **E-Learning Platform** – Full-stack application with user authentication, course management, and responsive design.  
 - **Admin Dashboard** – Dashboard for managing users, courses, analytics, and reporting.  
@@ -101,7 +101,7 @@
 
 ---
 <div align="center">
- <b> 🎯 Current Focus  </b>      </div>
+ <h1> 🎯 Current Focus  </h1>      </div>
 - 🔬 **Machine Learning Models** for predictive analytics
 - 🌐 **Full-Stack Applications** with React & Node.js
 - 📊 **Data Analysis Projects** with Python & SQL
@@ -111,11 +111,11 @@
 
 <div align="center">
 
- <b> 💝 Support My Work</b>    
+ <h1> 💝 Support My Work</h1>    
 
 If you find my projects helpful, consider giving them a ⭐️
 
- <b> ✨ Favorite Quotes</b>    
+ <h1> ✨ Favorite Quotes</h1>    
 
 </div>
 <p align="center"> <b>"We make our own fortune, and we call it fate." - Benjamin Disraeli</b> </p><!-- END OF README -->
